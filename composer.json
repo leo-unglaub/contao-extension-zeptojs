@@ -1,6 +1,6 @@
 {
 	"name": "leo-unglaub/contao-zeptojs",
-	"description": "vue.js library",
+	"description": "Adding the Zepto.js library to the Contao CMS.",
 	"keywords": [
 		"contao",
 		"zeptojs",
