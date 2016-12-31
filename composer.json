@@ -32,7 +32,7 @@
 	"extra": {
 		"contao": {
 			"sources": {
-				"assets/zeptojs": "assets/zeptojs"
+				"src/assets/zeptojs": "assets/zeptojs"
 			}
 		}
 	}
