@@ -28,6 +28,9 @@
 		"contao/core": "~3",
 		"contao-community-alliance/composer-installer": "*"
 	},
+	"replace": {
+		"contao-legacy/zeptojs": "*"
+	},
 	"extra": {
 		"contao": {
 			"sources": {
